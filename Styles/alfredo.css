@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+
+body {
+    font-family: 'Whisper', sans-serif;
+    background-color: #fffdaf;
+    color: black;
+    margin: 0;
+}
+
+/* Styling the headings */
+#heading {
+    font-size: 75px;
+    color: black;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+/* Styling the image */
+#img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 2px 3px 5px black;
+}
+
+#container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 19%;
+    margin-right: 19%;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: lightgray;
+    border-radius: 8px;
+    box-shadow: 2px 3px 5px black;
+}
+
+ul {
+    font-size: x-large;
+}
+
+p {
+    font-size: x-large;
+}
